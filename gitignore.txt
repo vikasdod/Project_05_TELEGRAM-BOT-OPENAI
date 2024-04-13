@@ -1,0 +1,4 @@
+C:\Users\123sa\Desktop\live-class-project\telegram-bot\venv1
+venv1
+.env
+
